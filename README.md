@@ -23,7 +23,6 @@ The transaction premium was justified by significant projected operational effic
 ## Repository Structure
 * `/models`: Excel workbooks featuring DCF, WACC, and Synergy modeling.
 * `/reports`: Final investment committee report and presentation.
-* `/data`: Industry snapshots and comparable peer metrics.
 
 ---
 *This project was completed as part of the FINA 415 course at the John Molson School of Business.*
